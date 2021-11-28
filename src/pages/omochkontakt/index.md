@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
-path: /about
-title: Ok Klubben
+path: /omochkontakt
+title: Om Klubben & kontakt
 ---
 
 Hindås tennisklubb är en förening med tennisverksamhet i Hindås. Vi har en tennishall med två hardcourt-banor samt en utomhusgrusbana. Vi bedriver tennisskola för såväl vuxna och barn och anordnar regelbundet tävlingar och klubbmästerskap.

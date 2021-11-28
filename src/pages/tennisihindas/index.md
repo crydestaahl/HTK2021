@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products
+path: /tennisihindas
 title: Tennis i Hindås
 image: /img/john-fornander.jpg
 heading: Tennis sedan 1930

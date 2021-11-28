@@ -49,14 +49,15 @@ $heading-font: 'Playball', cursive
   h3
     font-size: 1.3rem !important
   h1
-    font-size: 3rem !important
+    font-size: 4rem !important
 
 .btn-index
   margin-bottom: -15rem !important
   margin-top: 2rem !important
   position: relative
   top: 2rem
-  
+  a
+    color: $kaldi-red
   button:first-child
     margin-bottom: 1.5rem
   button
@@ -70,9 +71,9 @@ $heading-font: 'Playball', cursive
 .columns
   button
     color: $kaldi-red
-    width: 30vw
     text-transform: uppercase
     font-weight: 600
+    width: 30vw
 
 .heading-news
   color: $kaldi-red
@@ -222,7 +223,8 @@ $menu-label-color: $white-ter
     button
       height: 50px
       border-radius: 20px
-
+  
+  
 +mobile
   .blog-list-item header
     display: block
@@ -240,3 +242,7 @@ $menu-label-color: $white-ter
 
   .section
     padding: 0 !important
+  .columns
+    button
+      color: $kaldi-red
+      width: 80vw

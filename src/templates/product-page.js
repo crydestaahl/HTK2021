@@ -38,7 +38,7 @@ export const ProductPageTemplate = ({
       </h2>
     </div>
     <section className="section section--gradient">
-      <div className="container">
+      <div className="container" style={{ margin: '1rem' }}>
         <div className="section">
           <div className="columns">
             <div className="column is-offset-1">

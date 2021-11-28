@@ -67,15 +67,15 @@ export const IndexPageTemplate = ({
             {title}
           </h1>
         </div>
-        <div class="columns btn-index">
-          <div class="column">
-            <div class="buttons">
-              <button class="button">Boka bana</button>
+        <div className="columns btn-index">
+          <div className="column">
+            <div className="buttons">
+              <button className="button"><a href="https://www.matchi.se/facilities/hindastk">Boka bana</a></button>
             </div>
           </div>
-          <div class="column">
-            <div class="buttons">
-              <button class="button">Bli medlem</button>
+          <div className="column">
+            <div className="buttons">
+              <button className="button"><a href="/contact">Bli medlem</a></button>
             </div>
           </div>        
         </div>
@@ -125,7 +125,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered" style={{marginBottom:'2rem'}}>
                     <Link className="btn" to="/products">
-                      See all products
+                      Läs mer
                     </Link>
                   </div>
                 </div>

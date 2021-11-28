@@ -4,14 +4,18 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import ImageCarousel from './ImageCarousel'
+import images from './images.js'
+
 
 const Footer = class extends React.Component {
+  
   render() {
     return (
       <footer className="footer">
-        <div className="content has-text-centered has-text-white-ter">
+        <div className="content has-text-centered has-text-white-ter">      
           <div className="container has-text-white-ter">
-            <div style={{ maxWidth: '100vw' }} className="columns">
+            <div style={{ maxWidth: '100vw' }} className="columns">                          
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
@@ -46,7 +50,6 @@ const Footer = class extends React.Component {
                         Händer i klubben
                       </Link>
                     </li>
-                   
                   </ul>
                 </section>
               </div>
@@ -65,9 +68,19 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-              </div>
+              </div>  
+              <address></address>        
             </div>
-          </div>
+          </div>  
+          <div
+            style={{ 
+              display: 'flex',
+              flexDirection: 'column',
+              width: '400px',
+              margin: '3rem auto'
+            }}>
+            <ImageCarousel images={images} /> 
+          </div>        
         </div>
       </footer>
     )
