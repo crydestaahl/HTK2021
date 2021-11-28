@@ -16,6 +16,7 @@ export default function ImageCarousel({ images }) {
     fade: true,
     speed: 1000
   };
+  
   return (
     <div>
     <Slider {...settings}>

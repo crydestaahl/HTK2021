@@ -70,12 +70,12 @@ export const IndexPageTemplate = ({
         <div className="columns btn-index">
           <div className="column">
             <div className="buttons">
-              <button className="button"><a href="https://www.matchi.se/facilities/hindastk">Boka bana</a></button>
+            <a href="https://www.matchi.se/facilities/hindastk"><button className="button">Boka bana</button></a>
             </div>
           </div>
           <div className="column">
             <div className="buttons">
-              <button className="button"><a href="/contact">Bli medlem</a></button>
+            <a href="/blimedlem"><button className="button">Bli medlem</button></a>
             </div>
           </div>        
         </div>

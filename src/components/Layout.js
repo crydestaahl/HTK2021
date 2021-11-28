@@ -37,7 +37,7 @@ const TemplateWrapper = ({ children }) => {
           rel="mask-icon"
           href={`${withPrefix('/')}img/favicon-16x16.png`}
         />
-        <meta name="theme-color" content="#fff" />
+        <meta name="theme-color" content="#b71020" />
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
@@ -48,7 +48,11 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <div>{children}</div>    
+      <div
+        style={{ overflowX: 'hidden' }}
+        >
+          {children}
+        </div>    
       <Footer />      
     </div>
   )

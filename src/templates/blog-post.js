@@ -17,7 +17,7 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+    <section className="section" style={{ margin: '1rem' }}>
       {helmet || ''}
       <div className="container content">
         <div className="columns">
@@ -27,6 +27,7 @@ export const BlogPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
+            {/*
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -39,6 +40,7 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            */}
           </div>
         </div>
       </div>
