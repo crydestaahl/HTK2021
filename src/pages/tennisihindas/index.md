@@ -51,8 +51,8 @@ main:
     till den perfekta svingen. Du hittar hans kontaktuppgifter under Om klubben
     & kontakt.
   image1:
-    alt: "Photo: Julia Kuzenkov"
-    image: /img/julia-kuzenkov-mgjsw4amkky-unsplash.jpg
+    alt: "Photo: Parosa Khorsand"
+    image: /img/parsoa-khorsand-ahw2qiao_k4-unsplash.jpg
   image2:
     alt: "Photo: Renith R"
     image: /img/renith-r-mlu_x1d3ofq-unsplash.jpg
