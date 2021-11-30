@@ -48,9 +48,7 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <div
-        style={{ overflowX: 'hidden' }}
-        >
+      <div>
           {children}
         </div>    
       <Footer />      
