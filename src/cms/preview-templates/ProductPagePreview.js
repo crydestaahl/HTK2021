@@ -22,6 +22,8 @@ const ProductPagePreview = ({ entry, getAsset }) => {
       main={{
         heading: entry.getIn(['data', 'main', 'heading']),
         description: entry.getIn(['data', 'main', 'description']),
+        heading2: entry.getIn(['data', 'main', 'heading']),
+        description2: entry.getIn(['data', 'main', 'description']),
         image1: {
           image: getAsset(entry.getIn(['data', 'main', 'image1', 'image'])),
           alt: entry.getIn(['data', 'main', 'image1', 'alt']),

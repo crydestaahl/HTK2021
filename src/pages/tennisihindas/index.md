@@ -50,18 +50,21 @@ main:
     Omsträngning, ny linda eller kanske vill du laborera med vikten för att få
     till den perfekta svingen. Du hittar hans kontaktuppgifter under Om klubben
     & kontakt.
+  heading2: Heading 2
+  description2: Detta är description2.
   image1:
-    alt: "Photo: Parosa Khorsand"
+    alt: 'Photo: Parosa Khorsand'
     image: /img/parsoa-khorsand-ahw2qiao_k4-unsplash.jpg
   image2:
-    alt: "Photo: Renith R"
+    alt: 'Photo: Renith R'
     image: /img/renith-r-mlu_x1d3ofq-unsplash.jpg
   image3:
     alt: Coffee beans
     image: /img/inomhus.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote:
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
@@ -79,14 +82,14 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: "50"
+      price: '50'
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: "80"
+      price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need

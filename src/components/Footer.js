@@ -83,13 +83,7 @@ const Footer = class extends React.Component {
               </div>                       
             </div>
           </div>  
-          <div
-            style={{ 
-              display: 'flex',
-              flexDirection: 'column',
-              width: '400px',
-              margin: '3rem auto'
-            }}>
+          <div className="img-carousel">
             <ImageCarousel images={images} /> 
           </div>        
         </div>

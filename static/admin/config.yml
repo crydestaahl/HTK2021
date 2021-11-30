@@ -88,6 +88,8 @@ collections:
                 [
                   { label: Heading, name: heading, widget: string },
                   { label: Description, name: description, widget: text },
+                  { label: Heading2, name: heading2, widget: string },
+                  { label: Description2, name: description2, widget: text },
                   {
                     label: Image1,
                     name: image1,

@@ -37,8 +37,8 @@ export const ProductPageTemplate = ({
         {title}
       </h2>
     </div>
-    <section className="section section--gradient">
-      <div className="container" style={{ margin: '1rem' }}>
+    <section className="section product-page section--gradient">
+      <div className="container">
         <div className="section">
           <div className="columns">
             <div className="column is-offset-1">
@@ -58,9 +58,9 @@ export const ProductPageTemplate = ({
                 </div>
                 <div className="column is-half">
                   <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
+                    {main.heading2}
                   </h3>
-                  <p>{main.description}</p>
+                  <p>{main.description2}</p>
                 </div>
               </div>
               <div className="tile is-ancestor">
@@ -103,6 +103,8 @@ ProductPageTemplate.propTypes = {
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
+    heading2: PropTypes.string,
+    description2: PropTypes.string,
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -177,6 +179,8 @@ export const productPageQuery = graphql`
         main {
           heading
           description
+          heading2
+          description2
           image1 {
             alt
             image {

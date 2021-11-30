@@ -18,6 +18,9 @@ $heading-font: 'Playball', cursive
 *
   font-family: $font
 
+html body 
+  overflow-x: hidden
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -189,14 +192,20 @@ $menu-label-color: $white-ter
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
-.section
-  padding: 2rem 0.5rem !important
+//.section
+//  padding: 2rem 0.5rem !important
 
 .width-33
   width: 33%
 
 .heading-font 
   font-size: 6em !important
+
+.img-carousel
+  display: flex
+  flex-direction: column
+  width: 400px
+  margin: 3rem auto  
 
 @import "~bulma"
 
@@ -206,7 +215,7 @@ $menu-label-color: $white-ter
   html, body 
     max-width: 100%
     overflow-x: hidden
-    
+
   .jumbo-heading
     text-transform: uppercase
     text-align: center
@@ -253,6 +262,9 @@ $menu-label-color: $white-ter
   .section
     padding: 0 !important
   
+  .product-page
+    margin: 1rem
+  
   .columns
     button
       color: $kaldi-red
@@ -260,3 +272,9 @@ $menu-label-color: $white-ter
 
   .navbar-menu
     font-size: 1.3rem
+
+  .img-carousel
+    display: flex
+    flex-direction: column
+    width: 400px
+    margin: 3rem 1rem
