@@ -23,7 +23,7 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
+          href={`${withPrefix('/')}img/favicon-32x32.png`}
           sizes="32x32"
         />
         <link
@@ -35,7 +35,7 @@ const TemplateWrapper = ({ children }) => {
 
         <link
           rel="mask-icon"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
+          href={`${withPrefix('/')}img/favicon-32x32.png`}
         />
         <meta name="theme-color" content="#b71020" />
 
@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/thumb-logo.png`}
+          content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
       <Navbar />
