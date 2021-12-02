@@ -3,7 +3,7 @@ heading: Tennis sedan 1930
 path: /tennisihindas
 templateKey: product-page
 title: Tennis i Hindås
-image: /img/john-fornander.jpg
+image: /img/john-fornander.jpeg
 description: >
   Ända sedan 30-talet har det spelats tennis i Hindås. På den tiden var det grusbanan nere på Bocköhalvön som gällde, men idag har vi även två fina hardcourt-banor uppe vid idrottsklustret i Fagerhult som gör så att vi kan spela tennis året om.
 intro:

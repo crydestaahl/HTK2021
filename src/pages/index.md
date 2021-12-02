@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Hindås TK
-image: /img/darko-nesic.jpg
+image: /img/darko-nesic.jpeg
 heading: Nyheter
 subheading: Välkommen till
 mainpitch:
