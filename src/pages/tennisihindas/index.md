@@ -4,10 +4,8 @@ path: /tennisihindas
 templateKey: product-page
 title: Tennis i Hindås
 image: /img/john-fornander.jpg
-description: Ända sedan 30-talet har det spelats tennis i Hindås. Att spela
-  tennis vid vår utebana med inkluderande dopp i västra nedsjön är hör sommaren
-  till.  Grusbanan är också ett starkt och bidragande tillskott i Hindås som
-  fritidsort tillsammans med andra aktiviteter som skid- och vandringsleder.
+description: >
+  Ända sedan 30-talet har det spelats tennis i Hindås. På den tiden var det grusbanan nere på Bocköhalvön som gällde, men idag har vi även två fina hardcourt-banor uppe vid idrottsklustret i Fagerhult som gör så att vi kan spela tennis året om.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,13 +43,15 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Rackethjälpen
-  description: Michal som är vår alldeles egena tennis-guru hjälper dig med allt
-    du kan behöva för att du ska känna dig som ett med ditt racket.
+  description: >
+    Michal, som är vår alldeles egena tennis-guru, hjälper dig med allt
+    du behöver för att du ska känna dig som ett med ditt racket.
     Omsträngning, ny linda eller kanske vill du laborera med vikten för att få
     till den perfekta svingen. Du hittar hans kontaktuppgifter under Om klubben
     & kontakt.
-  heading2: Heading 2
-  description2: Detta är description2.
+  heading2: Tennisskola
+  description2: >
+    Vi erbjuder tennisskola för både vuxna och barn. I vår tennisskola är alla välkommna. Det spelar ingen roll om du inte   har spelat så mycket tidigare eller om du är en erfaren spelare, vi ser till så att du hamnar i en grupp där du kan utvecklas. Är du intresserad av att träna tennis i vår tennisskola kan du skicka in en anmälan via Träna Tennis.
   image1:
     alt: 'Photo: Parosa Khorsand'
     image: /img/parsoa-khorsand-ahw2qiao_k4-unsplash.jpg

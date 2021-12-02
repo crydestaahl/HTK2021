@@ -13,12 +13,18 @@ description: >-
 intro:
   blurbs:
     - image: /img/hindastk.jpg
+      heading: Tennisskola
+      link: /tennisihindas
       text: >
         Vi erbjuder träning för både barn och vuxna. Det spelar ingen roll om du är en erfaren spelare eller helt ny, vi ser till så att du hamnar i en grupp som passar din förmåga.
     - image: /img/alicja-gancarz.jpg
+      heading: Rackethjälpen
+      link: /tennisihindas
       text: >
         Michal hjälper dig med allt du kan behöva för att du ska känna dig som ett med ditt racket. Omsträngning, ny linda eller kanske vill du laborera med vikten för att få till den perfekta svingen.
     - image: /img/historia.jpg
+      heading: Historia
+      link: /tennisihindas
       text: >
         Hindås Tennisklubb grundades 1930, ända sedan dess har intresset för tennis varit stort i Hindås.
 
