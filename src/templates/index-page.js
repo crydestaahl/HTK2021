@@ -12,8 +12,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  mainpitch,
-  description,
   intro,
 }) => (
   <div>
@@ -106,8 +104,6 @@ export const IndexPageTemplate = ({
                     </h3>
                   </div>
                 </div>
-               
-               
                 <div className="column is-12">              
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
@@ -124,7 +120,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered" style={{marginBottom:'2rem'}}>
-                    <Link className="btn" to="/products">
+                    <Link className="btn" to="/tennisihindas">
                       Läs mer
                     </Link>
                   </div>
