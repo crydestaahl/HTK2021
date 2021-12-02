@@ -44,7 +44,7 @@ intro:
 main:
   heading: Rackethjälpen
   description: >
-    Michal, som är vår alldeles egena tennis-guru, hjälper dig med allt
+    Michal, som är vår alldeles egna tennis-guru, hjälper dig med allt
     du behöver för att du ska känna dig som ett med ditt racket.
     Omsträngning, ny linda eller kanske vill du laborera med vikten för att få
     till den perfekta svingen. Du hittar hans kontaktuppgifter under Om klubben
