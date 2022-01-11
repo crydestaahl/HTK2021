@@ -6,6 +6,7 @@ title: Tennis i Hindås
 image: /img/john-fornander.jpeg
 description: >
   Ända sedan 30-talet har det spelats tennis i Hindås. På den tiden var det grusbanan nere på Bocköhalvön som gällde, men idag har vi även två fina hardcourt-banor uppe vid idrottsklustret i Fagerhult som gör så att vi kan spela tennis året om.
+  Banor bokas genom appen Matchi och dörren låser du upp med hjälp av appen Parakey.
 intro:
   blurbs:
     - image: /img/coffee.png
