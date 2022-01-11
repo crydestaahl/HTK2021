@@ -42,7 +42,7 @@ export default class Index extends React.Component {
               <h1>Träna tennis</h1>
 
               <p>Klubben anordnar tennisskola för barn och ungdomar samt för vuxna. Träningen leds av klubbens utbildade tränare. För att gå i tennisskola krävs medlemskap i föreningen.<br /><br />
-
+             
               <h3>Våra tränare:</h3>
               Michal Mlocinski<br />
               

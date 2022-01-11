@@ -26,6 +26,14 @@ Robin Engblad - Ledamot
 
 </br></br>
 
+### Boka bana med Matchi och inpassering med Parakey:
+
+För att boka bana behöver du ett konto på Matchi. Matchi laddas enkelt ner från <a href="https://apps.apple.com/se/app/matchi/id720782039">Appstore</a> eller <a href="https://play.google.com/store/apps/details?id=com.matchi">Google Play.</a>
+
+Med hjälp av appen **Parakey** låser du upp dörren till hallen. Nyckeln är giltig en kvart innan bokad/avslutad tid. **Parakey** hittar du i Appstore eller Google Play.
+</br></br>
+</br></br>
+
 #### För allmänna frågor skriv till:
 
 E-post: <a href="mailto:info@hindastennisklubb.net">info@hindastennisklubb.net</a>
@@ -39,7 +47,7 @@ E-post: <a href="mailto:medlem@hindastennisklubb.net">medlem@hindastennisklubb.n
 #### Juniortävlingar med deltagare även från andra klubbar, anmälan m.m.
 
 E-post: <a href="mailto:juniortavling@hindastennisklubb.net">juniortavling@hindastennisklubb.net</a>
-Tel: Anneli Svensson 0733-89 52 29
+Tel:
 </br>
 
 #### Anmälan till Hindås tennisskola (hösttermin, vårtermin resp sommarskolan)
