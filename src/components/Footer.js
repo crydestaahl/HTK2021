@@ -4,7 +4,8 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import ImageCarousel from './ImageCarousel'
 import images from './images.js'
-
+import appstore from '../../static/img/appstore.png'
+import googleplay from '../../static/img/googleplay.png'
 
 const Footer = class extends React.Component {
   
@@ -56,19 +57,35 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
+            
+              <section>
+                <ul className="menu-list">
+                  <li>
+                    <a className="store-item-apple" href="https://apps.apple.com/se/app/matchi/id720782039" target="_blank">
+                      <img src={appstore} alt="link to app store" style={{
+                        height: '80px',
+                      }}></img>
+                    </a>
+                  </li>
+                  <li>
+                    <a className="store-item-google" href="https://play.google.com/store/apps/details?id=com.matchi&gl=SE" target="_blank">
+                      <img 
+                        src={googleplay} 
+                        alt="link to google play"
+                        style={{
+                          height: '47px',
+                        }}></img>
+                    </a>
+                  </li>
+                </ul>
+              </section>
+            
+              <div className="column is-4 social" style={{ marginTop: '3rem' }}>
                 <a title="facebook" href="https://www.facebook.com/groups/193826577350411">
                   <img
                     src={facebook}
                     alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
+                    style={{ width: '1em', height: '1em'}}
                   />
                 </a>
                 <a title="instagram" href="https://www.instagram.com/hindas_tennisklubb/">
