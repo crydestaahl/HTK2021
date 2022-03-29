@@ -16,8 +16,8 @@ const Footer = class extends React.Component {
           <div className="container has-text-white-ter">
           <address style={{paddingBottom: '1rem'}}>
           <h2 style={{color: '#fff'}}>Besöksadress:</h2>
-          <h5 style={{color: '#fff'}}>Hallen: Fagerhultsvägen 61</h5>
-          <h5 style={{color: '#fff'}}>Utebanan: Bockövägen 16</h5>
+          <h5 style={{color: '#fff'}}>Fagerhultsvägen 61</h5>
+        {/*  <h5 style={{color: '#fff'}}>Utebanan: Bockövägen 16</h5> */} 
         </address>    
             <div className="columns" 
               style={{ 
@@ -58,8 +58,8 @@ const Footer = class extends React.Component {
                 </section>
               </div>
             
-              <section>
-                <ul className="menu-list">
+              <section>          
+                <ul className="menu-list">                
                   <li>
                     <a className="store-item-apple" href="https://apps.apple.com/se/app/matchi/id720782039" target="_blank">
                       <img src={appstore} alt="link to app store" style={{
@@ -76,7 +76,7 @@ const Footer = class extends React.Component {
                           height: '47px',
                         }}></img>
                     </a>
-                  </li>
+                  </li>              
                 </ul>
               </section>
             

@@ -12,11 +12,11 @@ Christoffer Rydeståhl - Ordförande - 0736926360 - <a href="mailto:kristoffer@o
 
 Johan Hallin - Kassör
 
-Michal Mlocinski - Ledamot - 0738258998 - <a href="mailto:htkhemsida@gmail.com">htkhemsida@gmail.com</a>
+Michal Mlocinski - Ledamot <a href="mailto:htkhemsida@gmail.com">htkhemsida@gmail.com</a>
 
-Maria Gabrielsson - Ledamot - 0730227987 - <a href="mailto:miagab@gmail.com">miagab@gmail.com</a>
+Maria Gabrielsson - Ledamot <a href="mailto:miagab@gmail.com">miagab@gmail.com</a>
 
-Mattias Sandsäter - Ledamot - 0706263915 - <a href="mailto:mattias@sandsater.se">mattias@sandsater.se</a>
+Mattias Sandsäter - Ledamot <a href="mailto:mattias@sandsater.se">mattias@sandsater.se</a>
 
 Jimmy Samuelsson - Ledamot
 

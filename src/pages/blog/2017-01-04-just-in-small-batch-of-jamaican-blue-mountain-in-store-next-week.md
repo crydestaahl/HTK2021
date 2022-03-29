@@ -13,7 +13,7 @@ tags:
   - tasting
 ---
 
-![flavor wheel](/img/samuel-elias-nadler.jpg)
+![](/img/samuel-elias-nadler.jpg)
 
 Vi behöver hjälp med att plocka in vindskydd, nät och andra grejer som har med banan att göra. Om många kommer tar detta inte mer än 1 h.
 
