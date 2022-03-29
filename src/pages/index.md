@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hindås TK
+title: Hindås Tennisklubb
 image: /img/darko-nesic.jpeg
 heading: Nyheter
 subheading: Välkommen till

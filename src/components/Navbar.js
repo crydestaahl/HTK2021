@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/thumb-logo.jpg'
+import facebook from '../img/social/facebook.svg'
+import instagram from '../img/social/instagram.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -62,7 +64,9 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">          
-              <Link className="navbar-item" to="/tennisihindas">
+            </div>
+            <div className="navbar-end has-text-centered">
+            <Link className="navbar-item" to="/tennisihindas">
                 Tennis i Hindås
               </Link>
               <Link className="navbar-item" to="/blog">
@@ -77,15 +81,26 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/omochkontakt">
                 Om klubben & Kontakt
               </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
                 href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                
+              <a title="facebook" className="navbar-item" href="https://www.facebook.com/groups/193826577350411">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: '1.5em', height: '1.5em'}}
+                  />
+              </a>
+              <a title="instagram" className="navbar-item" href="https://www.instagram.com/hindas_tennisklubb/">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{ width: '1.5em', height: '1.5em' }}
+                  />
+              </a>
               </a>
             </div>
           </div>

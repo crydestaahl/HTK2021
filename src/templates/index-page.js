@@ -38,8 +38,8 @@ export const IndexPageTemplate = ({
           top: '-10rem'
         }}
       >
-        <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="HindåsTK" style={{ width: '64px', height: '64px' }} />
+        <Link to="/" className="jumbo-logo" title="Logo">
+          <img src={logo} alt="HindåsTK"  />
         </Link>
         <div className="jumbo-heading">
           <h3
@@ -68,12 +68,12 @@ export const IndexPageTemplate = ({
         <div className="columns btn-index">
           <div className="column">
             <div className="buttons">
-            <a href="https://www.matchi.se/facilities/hindastk"><button className="button">Boka bana</button></a>
+            <a href="https://www.matchi.se/facilities/hindastk"><button className="button"><b>Boka bana</b></button></a>
             </div>
           </div>
           <div className="column">
             <div className="buttons">
-            <a href="/blimedlem"><button className="button">Bli medlem</button></a>
+            <a href="/blimedlem"><button className="button"><b>Bli medlem</b></button></a>
             </div>
           </div>        
         </div>

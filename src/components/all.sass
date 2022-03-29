@@ -21,8 +21,12 @@ $heading-font: 'Playball', cursive
 html body 
   overflow-x: hidden
 
-.navbar .navbar-menu
-  box-shadow:none !important
+a:hover 
+  color: $kaldi-red !important
+.navbar
+  min-height: 5.25rem
+  .navbar-menu
+    box-shadow:none !important
 
 .content .taglist
   list-style: none
@@ -51,8 +55,11 @@ html body
   text-align: center
   h3
     font-size: 1.3rem !important
-  h1
-    font-size: rem !important
+  
+
+.jumbo-logo
+  width: 146px
+  height: 146px
 
 .btn-index
   margin-bottom: -15rem !important
@@ -60,7 +67,7 @@ html body
   position: relative
   top: 2rem
   a
-    color: $kaldi-red
+    color: $kaldi-red    
   button:first-child
     margin-bottom: 1.5rem
   button
@@ -192,11 +199,11 @@ $menu-label-color: $white-ter
 .blog-list-item.is-featured
   background-color: #ECD1D1
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 //.section
 //  padding: 2rem 0.5rem !important
@@ -229,7 +236,7 @@ $menu-label-color: $white-ter
     text-transform: uppercase
     text-align: center
     h1
-      font-size: 3rem !important
+      font-size: 2.3rem !important
 
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
@@ -254,6 +261,9 @@ $menu-label-color: $white-ter
   
   
 +mobile
+  .jumbo-logo 
+    height: 84px
+    width: 84px
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
@@ -265,9 +275,11 @@ $menu-label-color: $white-ter
     color: $primary
     width: 5.25rem
     margin-top: 0.7rem
+    span
+      height: 2px
     .burger
       width: 30px
-
+      
   .section
     padding: 0 !important
   
@@ -291,3 +303,7 @@ $menu-label-color: $white-ter
   .submit-btn 
     width: 100%
     background: $kaldi-red !important
+
+  .jumbo-heading
+    h1
+      font-size: 2rem !important
