@@ -232,6 +232,14 @@ $menu-label-color: $white-ter
     max-width: 100%
     overflow-x: hidden
 
+  .navbar-burger
+    width: 5.25rem
+    height: 4.25rem
+    color: $kaldi-red
+    span
+      height: 2px
+      width: 20px
+
   .jumbo-heading
     text-transform: uppercase
     text-align: center
@@ -240,7 +248,7 @@ $menu-label-color: $white-ter
 
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
-
+    
   .columns
     button
       color: $kaldi-red
@@ -249,18 +257,23 @@ $menu-label-color: $white-ter
       font-weight: 600
 
   .btn-index
+    flex-direction: column
     margin-bottom: -15rem !important
     margin-top: 2rem !important
     position: relative
     top: 2rem
+    display: flexbugs
     button:first-child
       margin-bottom: 1.5rem
     button
       height: 50px
       border-radius: 20px
   
+  .index-info
+    flex-direction: column
   
 +mobile
+
   .jumbo-logo 
     height: 84px
     width: 84px
