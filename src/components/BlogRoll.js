@@ -35,14 +35,17 @@ class BlogRoll extends React.Component {
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
-                    </Link>
+                    </Link>                    
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
+                    <span className="subtitle is-size-6 is-block">
+                    <b>{post.frontmatter.description}</b>
+                  </span>
                   </p>
                 </header>
-                <p>
+                <p>                
                   {post.excerpt}
                   <br />
                   <br />
@@ -76,7 +79,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 110)
               id
               fields {
                 slug
@@ -85,6 +88,7 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                description
                 featuredpost
                 featuredimage {
                   childImageSharp {
