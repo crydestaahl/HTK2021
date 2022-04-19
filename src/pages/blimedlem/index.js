@@ -209,6 +209,7 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={'message'}
                       required={true}
+                      placeholder="Vid familjemedlemskap behöver vi personnummer och namn för samtliga familjemedlemmar."
                     />
                   </div>
                 </div>
