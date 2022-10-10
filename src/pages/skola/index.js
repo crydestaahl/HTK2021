@@ -45,11 +45,7 @@ export default class Index extends React.Component {
              
               <h3>Våra tränare:</h3>
               Michal Mlocinski<br />
-              
-              Klaudia Mlocinska<br />
-              
-              Linn Bergman<br />
-              
+
               Christoffer Rydeståhl</p>
 
               <h1>Intresseanmälan tenniskola</h1>
@@ -87,7 +83,7 @@ export default class Index extends React.Component {
                 </div>            
                 <div className="field">
                   <label className="label" htmlFor={'socialnumber'}>
-                    Personnummer
+                    Födelsedatum
                   </label>
                   <div className="control">
                     <input

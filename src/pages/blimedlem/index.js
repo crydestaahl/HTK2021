@@ -54,7 +54,7 @@ export default class Index extends React.Component {
               <form
                 name="medlemsansokan"
                 method="post"
-                action="/contact/thanks/"
+                action="/blimedlem/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -125,7 +125,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'socialnumber'}>
-                    Personnummer
+                    Födelsedatum
                   </label>
                   <div className="control">
                     <input

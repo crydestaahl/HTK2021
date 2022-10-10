@@ -10,8 +10,6 @@ Hindås tennisklubb är en förening med tennisverksamhet i Hindås. Vi har en t
 
 Christoffer Rydeståhl - Ordförande - 0736926360 - <a href="mailto:kristoffer@oholics.com">christoffer@oholics.com</a>
 
-Johan Hallin - Kassör
-
 Michal Mlocinski - Ledamot <a href="mailto:htkhemsida@gmail.com">htkhemsida@gmail.com</a>
 
 Maria Gabrielsson - Ledamot <a href="mailto:miagab@gmail.com">miagab@gmail.com</a>
