@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /omochkontakt
 title: Om Klubben & kontakt
 ---
@@ -12,7 +12,7 @@ Christoffer Rydeståhl - Ordförande - 0736926360 - <a href="mailto:kristoffer@o
 
 Michal Mlocinski - Ledamot <a href="mailto:htkhemsida@gmail.com">htkhemsida@gmail.com</a>
 
-Maria Gabrielsson - Ledamot <a href="mailto:miagab@gmail.com">miagab@gmail.com</a>
+Maria Gabrielsson - Ledamot
 
 Mattias Sandsäter - Ledamot <a href="mailto:mattias@sandsater.se">mattias@sandsater.se</a>
 
