@@ -37,19 +37,22 @@ collections:
           label: 'Featured Image',
           name: 'featuredimage',
           widget: image,
-          required: 'false',
+          required: 'boolean',
+          default: 'false',
         }
       - {
           label: 'Featured Image 2',
           name: 'featuredimage2',
           widget: image,
-          required: 'false',
+          required: 'boolean',
+          default: 'false',
         }
       - {
           label: 'Featured Image 3',
           name: 'featuredimage3',
           widget: image,
-          required: 'false',
+          required: 'boolean',
+          default: 'false',
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
