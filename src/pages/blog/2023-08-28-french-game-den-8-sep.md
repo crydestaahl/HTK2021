@@ -3,7 +3,7 @@ templateKey: blog-post
 title: French Game den 8 sep
 date: 2023-08-28T17:39:55.374Z
 description: Missa inte French Game den 8 september kl 18-20
-featuredpost: "false"
+featuredpost: true
 featuredimage: /img/frenchgame.jpeg
 featuredimage2: "false"
 featuredimage3: "false"
