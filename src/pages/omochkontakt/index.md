@@ -3,24 +3,21 @@ templateKey: about-page
 path: /omochkontakt
 title: Om Klubben & kontakt
 ---
-
 Hindås tennisklubb är en förening med tennisverksamhet i Hindås. Vi har en tennishall med två hardcourt-banor samt en utomhusgrusbana. Vi bedriver tennisskola för såväl vuxna och barn och anordnar regelbundet tävlingar och klubbmästerskap.
 
-### Styrelsen 2021
+### Styrelsen 2024
 
-Christoffer Rydeståhl - Ordförande - 0736926360 - <a href="mailto:kristoffer@oholics.com">christoffer@oholics.com</a>
+Christoffer Rydeståhl - Ordförande - 0736926360 - <a href="mailto:rydestahl@gmail.com">rydestahl@gmail.com</a>
 
 Michal Mlocinski - Ledamot <a href="mailto:htkhemsida@gmail.com">htkhemsida@gmail.com</a>
-
-Maria Gabrielsson - Ledamot
 
 Mattias Sandsäter - Ledamot <a href="mailto:mattias@sandsater.se">mattias@sandsater.se</a>
 
 Jimmy Samuelsson - Ledamot
 
-Joanna Lindskog - Ledamot
+Helen Strömgren - Ledamot 
 
-Robin Engblad - Ledamot
+Sandra Appeltofft - Ledamot 
 
 </br></br>
 
