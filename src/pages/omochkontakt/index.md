@@ -19,6 +19,8 @@ Helen Strömgren - Ledamot
 
 Sandra Appeltofft - Ledamot 
 
+Kristoffer Karlsson - Ledamot 
+
 </br></br>
 
 ### Boka bana med Matchi och inpassering med Parakey:
