@@ -16,7 +16,7 @@ const Footer = class extends React.Component {
           <div className="container has-text-white-ter">
           <address style={{paddingBottom: '1rem'}}>
           <h2 style={{color: '#fff'}}>Besöksadress:</h2>
-          <h5 style={{color: '#fff'}}>Fagerhultsvägen 61</h5>
+          <h5 style={{color: '#fff'}}>Sportvägen 3</h5>
         {/*  <h5 style={{color: '#fff'}}>Utebanan: Bockövägen 16</h5> */} 
         </address>    
             <div className="columns" 

@@ -29,6 +29,10 @@ För att boka bana behöver du ett konto på Matchi. Matchi laddas enkelt ner fr
 
 Med hjälp av appen **Parakey** låser du upp dörren till hallen. Nyckeln är giltig en kvart innan bokad/avslutad tid. **Parakey** hittar du i Appstore eller Google Play, länkar hittar du längst ned på sidan.
 
+Det är viktigt att du använder samma epostadress i Matchi och Parakey. 
+
+Vid akuta inpasseringsproblem ring: <a href="tel:+46702623915">0706263915</a>.
+
 </br></br>
 </br></br>
 
