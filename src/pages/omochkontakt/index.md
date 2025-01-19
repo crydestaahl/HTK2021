@@ -70,3 +70,7 @@ E-post: <a href="mailto:nyckel@hindastennisklubb.net">nyckel@hindastennisklubb.n
 #### Bankgiro
 
 123-7353
+
+#### Swish  
+
+123 693 43 92

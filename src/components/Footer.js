@@ -54,6 +54,11 @@ const Footer = class extends React.Component {
                         Händer i klubben
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item">
+                        Swish nr: 123 693 43 92
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
@@ -76,7 +81,7 @@ const Footer = class extends React.Component {
                           height: '47px',
                         }}></img>
                     </a>
-                  </li>              
+                  </li>                 
                 </ul>
               </section>
             
