@@ -45,7 +45,7 @@ export default class Index extends React.Component {
 
               Priser medlemskap<br />
               
-              Familj: 500kr<br />
+              Familj: 600kr<br />
               
               Senior: 300kr<br />
               
